@@ -13,9 +13,8 @@ public interface IMessageFormat {
      *
      * @param message 待处理的消息
      * @param format  转换格式【xml/json】
-     * @return 返回转换后的数据
      */
-    String format(String message, String format);
+    void format(String message, String format);
 
     /**
      * 消息合法性验证方法

@@ -6,8 +6,7 @@ package com.imooc.lambda;
  */
 public class IMessageFormatImpl implements IMessageFormat {
     @Override
-    public String format(String message, String format) {
+    public void format(String message, String format) {
         System.out.println("消息转换。。。");
-        return message;
     }
 }
