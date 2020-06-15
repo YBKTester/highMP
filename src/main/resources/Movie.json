@@ -1,0 +1,115 @@
+{
+  "RECORDS": [
+    {
+      "tollRoadId": "G000333",
+      "sectionId": "G0003330010",
+      "tollIntervalId": "G000333001000110",
+      "vehicleType": 13,
+      "fee": 2897,
+      "mFee": 2897,
+      "eFee": 2462
+    },
+    {
+      "tollRoadId": "G000333",
+      "sectionId": "G0003330010",
+      "tollIntervalId": "G000333001000210",
+      "vehicleType": 13,
+      "fee": 2567,
+      "mFee": 2567,
+      "eFee": 2182
+    },{
+      "tollRoadId": "G000333",
+      "sectionId": "G0003330010",
+      "tollIntervalId": "G000333001000310",
+      "vehicleType": 13,
+      "fee": 822,
+      "mFee": 822,
+      "eFee": 699
+    },{
+      "tollRoadId": "G060N33",
+      "sectionId": "G060N330020",
+      "tollIntervalId": "G060N33002000520",
+      "vehicleType": 13,
+      "fee": 472,
+      "mFee": 472,
+      "eFee": 401
+    },{
+      "tollRoadId": "G060N33",
+      "sectionId": "G060N330020",
+      "tollIntervalId": "G060N33002000420",
+      "vehicleType": 13,
+      "fee": 4330,
+      "mFee": 4330,
+      "eFee": 3681
+    },	{
+      "tollRoadId": "G060N33",
+      "sectionId": "G060N330020",
+      "tollIntervalId": "G060N33002000320",
+      "vehicleType": 13,
+      "fee": 1548,
+      "mFee": 1548,
+      "eFee": 1316
+    },	{
+      "tollRoadId": "G060N33",
+      "sectionId": "G060N330020",
+      "tollIntervalId": "G060N33002000220",
+      "vehicleType": 13,
+      "fee": 2551,
+      "mFee": 2551,
+      "eFee": 2168
+    },	{
+      "tollRoadId": "G060N33",
+      "sectionId": "G060N330020",
+      "tollIntervalId": "G060N33002000120",
+      "vehicleType": 13,
+      "fee": 497,
+      "mFee": 497,
+      "eFee": 422
+    },{
+      "tollRoadId": "G060N33",
+      "sectionId": "G060N330010",
+      "tollIntervalId": "G060N33001000220",
+      "vehicleType": 13,
+      "fee": 1599,
+      "mFee": 1599,
+      "eFee": 1359
+    },{
+      "tollRoadId": "G060N33",
+      "sectionId": "G060N330010",
+      "tollIntervalId": "G060N33001000120",
+      "vehicleType": 13,
+      "fee": 1491,
+      "mFee": 1491,
+      "eFee": 1267
+    },	{
+      "tollRoadId": "G002533",
+      "sectionId": "G0025330020",
+      "tollIntervalId": "G002533002002220",
+      "vehicleType": 13,
+      "fee": 1112,
+      "mFee": 1112,
+      "eFee": 945
+    },{
+      "tollRoadId": "G002533",
+      "sectionId": "G0025330020",
+      "tollIntervalId": "G002533002002120",
+      "vehicleType": 13,
+      "fee": 2326,
+      "mFee": 2326,
+      "eFee": 1977
+    },{
+      "tollRoadId": "G002533",
+      "sectionId": "G0025330020",
+      "tollIntervalId": "G002533002011620",
+      "vehicleType": 13,
+      "fee": 0,
+      "mFee": 0,
+      "eFee": 0
+    }
+  ]
+}
+
+
+
+
+
